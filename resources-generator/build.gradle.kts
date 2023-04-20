@@ -10,7 +10,7 @@ plugins {
     id("java-gradle-plugin")
 }
 
-group = "dev.icerock.moko"
+group = "tech.apter.moko"
 version = moko.versions.resourcesVersion.get()
 
 dependencies {

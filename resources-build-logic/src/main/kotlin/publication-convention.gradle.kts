@@ -24,12 +24,12 @@ publishing {
         pom {
             name.set("MOKO resources")
             description.set("Resources access for Kotlin Multiplatform development (mobile first)")
-            url.set("https://github.com/icerockdev/moko-resources")
+            url.set("https://github.com/apter-tech/moko-resources")
             licenses {
                 license {
                     name.set("Apache-2.0")
                     distribution.set("repo")
-                    url.set("https://github.com/icerockdev/moko-resources/blob/master/LICENSE.md")
+                    url.set("https://github.com/apter-tech/moko-resources/blob/master/LICENSE.md")
                 }
             }
 
@@ -62,9 +62,9 @@ publishing {
             }
 
             scm {
-                connection.set("scm:git:ssh://github.com/icerockdev/moko-resources.git")
-                developerConnection.set("scm:git:ssh://github.com/icerockdev/moko-resources.git")
-                url.set("https://github.com/icerockdev/moko-resources")
+                connection.set("scm:git:ssh://github.com/apter-tech/moko-resources.git")
+                developerConnection.set("scm:git:ssh://github.com/apter-tech/moko-resources.git")
+                url.set("https://github.com/apter-tech/moko-resources")
             }
         }
     }
